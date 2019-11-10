@@ -23,4 +23,4 @@
 	bilangan3=10
 -maka akan muncul bilangan terbesar=30
 perhatikan gambar berikut:
-![](screenshot/bandicam%202019-11-02%21-22-30-306.jpg)
+![](screenshot/bandicam%202019-11-02%2021-22-30-306.jpg)
